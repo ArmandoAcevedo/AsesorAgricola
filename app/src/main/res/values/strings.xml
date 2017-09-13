@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Asesor Agrícola</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="inicio">Inicio</string>
+    <string name="nuestra_empresa">Nuestra empresa</string>
+    <string name="nuestro_equipo">Nuestro equipo</string>
+    <string name="servicios">Servicios</string>
+    <string name="operadores_de_producci_n">Operadores de producción</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="acerca_de_nosotros">Acerca de nosotros</string>
+    <string name="des_acerca_nosotros">Git alic tent eium, omnimus andanih illanda et lam, officiendis quam, ipsum quis esenis et fuga. Ihicil eveliqu atinim recuptatem et volupta tiant, cus magnatius samus cuptatiunt aut dis con perferem ut reperit qui ipsam ut eost officipit esti deniatus, corerci psuntest la coreces consera que ommolo dolupit, ommoditatem sumenihil inis dolore militatem quatqui natus.</string>
+    <string name="imagen_corporativa">Imagen corporativa</string>
+    <string name="texto_imagen_corp">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere</string>
+    <string name="objetivos_a_corto_plazo">Objetivos a corto plazo</string>
+    <string name="objetivos_a_mediano_plazo">Objetivos a mediano plazo</string>
+    <string name="enviar_calificaci_n">enviar calificación</string>
+    <string name="horario_de_atenci_n">HORARIO DE ATENCIÓN</string>
+    <string name="lunes_a_viernes">Lunes a viernes</string>
+    <string name="_9am_8pm">9am - 8pm</string>
+    <string name="s_bados_y_domingos">Sábados y domingos</string>
+    <string name="_11am_8pm">11am - 8pm</string>
+    <string name="p_gina_web">PÁGINA WEB</string>
+    <string name="http_14030213_wixsite_com_asesor_copia_de_equipo">http:14030213.wixsite.com/asesor/copia-de-equipo</string>
+    <string name="correo_electr_nico">CORREO ELECTRÓNICO</string>
+    <string name="agricolaasesor_gmail_com">agricolaasesor@gmail.com</string>
+    <string name="tel_fono_y_whatsaap">TELÉFONO Y WHATSAAP</string>
+
+    <string-array name="n_empresa_array">
+        <item>Imagen corporativa</item>
+        <item>Objetivos a corto plazo</item>
+        <item>Objetivos a mediano plazo</item>
+    </string-array>
+</resources>
